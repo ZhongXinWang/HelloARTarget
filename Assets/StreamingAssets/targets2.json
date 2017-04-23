@@ -1,0 +1,9 @@
+{
+  "images" :
+  [
+    {
+      "image" : "streams/idCard.jpg",
+      "name" : "idcard"
+    }
+  ]
+}
