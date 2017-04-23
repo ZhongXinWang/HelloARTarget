@@ -1,0 +1,15 @@
+{
+  "images" :
+  [
+    {
+      "image" : "video.jpg",
+      "name" : "video"
+    },
+    {
+      "image" : "second.jpg",
+      "name" : "second",
+      "uid" : "uid-string",
+      "meta" : "my second"
+    }
+  ]
+}
